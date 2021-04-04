@@ -1,0 +1,9 @@
+G:\Huy\Task2\Task2\bin\Debug\Task2.exe.config
+G:\Huy\Task2\Task2\bin\Debug\Task2.exe
+G:\Huy\Task2\Task2\bin\Debug\Task2.pdb
+G:\Huy\Task2\Task2\obj\Debug\Task2.ProjectInstaller.resources
+G:\Huy\Task2\Task2\obj\Debug\Task2.csproj.GenerateResource.cache
+G:\Huy\Task2\Task2\obj\Debug\Task2.csproj.CoreCompileInputs.cache
+G:\Huy\Task2\Task2\obj\Debug\Task2.exe
+G:\Huy\Task2\Task2\obj\Debug\Task2.pdb
+G:\Huy\Task2\Task2\obj\Debug\Task2.csprojAssemblyReference.cache

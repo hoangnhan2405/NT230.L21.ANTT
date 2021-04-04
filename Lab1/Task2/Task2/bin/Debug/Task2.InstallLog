@@ -1,0 +1,39 @@
+﻿Installing assembly 'G:\Huy\Task2\Task2\bin\Debug\Task2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = G:\Huy\Task2\Task2\bin\Debug\Task2.InstallLog
+   assemblypath = G:\Huy\Task2\Task2\bin\Debug\Task2.exe
+Installing service Task2...
+Service Task2 has been successfully installed.
+Creating EventLog source Task2 in log Application...
+Committing assembly 'G:\Huy\Task2\Task2\bin\Debug\Task2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = G:\Huy\Task2\Task2\bin\Debug\Task2.InstallLog
+   assemblypath = G:\Huy\Task2\Task2\bin\Debug\Task2.exe
+Installing assembly 'G:\Huy\Task2\Task2\bin\Debug\Task2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = G:\Huy\Task2\Task2\bin\Debug\Task2.InstallLog
+   assemblypath = G:\Huy\Task2\Task2\bin\Debug\Task2.exe
+Installing service Task2...
+Creating EventLog source Task2 in log Application...
+Rolling back assembly 'G:\Huy\Task2\Task2\bin\Debug\Task2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = G:\Huy\Task2\Task2\bin\Debug\Task2.InstallLog
+   assemblypath = G:\Huy\Task2\Task2\bin\Debug\Task2.exe
+Restoring event log to previous state for source Task2.
+Installing assembly 'G:\Huy\Task2\Task2\bin\Debug\Task2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = G:\Huy\Task2\Task2\bin\Debug\Task2.InstallLog
+   assemblypath = G:\Huy\Task2\Task2\bin\Debug\Task2.exe
+Installing service Task2...
+Creating EventLog source Task2 in log Application...
+Rolling back assembly 'G:\Huy\Task2\Task2\bin\Debug\Task2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = G:\Huy\Task2\Task2\bin\Debug\Task2.InstallLog
+   assemblypath = G:\Huy\Task2\Task2\bin\Debug\Task2.exe
+Restoring event log to previous state for source Task2.
