@@ -1,0 +1,6 @@
+G:\Huy\Lab2_Task1.3\Lab2\bin\Debug\Lab2.exe.config
+G:\Huy\Lab2_Task1.3\Lab2\bin\Debug\Lab2.exe
+G:\Huy\Lab2_Task1.3\Lab2\bin\Debug\Lab2.pdb
+G:\Huy\Lab2_Task1.3\Lab2\obj\Debug\Lab2.csproj.CoreCompileInputs.cache
+G:\Huy\Lab2_Task1.3\Lab2\obj\Debug\Lab2.exe
+G:\Huy\Lab2_Task1.3\Lab2\obj\Debug\Lab2.pdb

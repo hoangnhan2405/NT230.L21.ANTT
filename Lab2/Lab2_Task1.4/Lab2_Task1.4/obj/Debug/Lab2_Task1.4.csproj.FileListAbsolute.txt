@@ -1,0 +1,7 @@
+G:\Huy\Lab2_Task1.4\Lab2_Task1.4\bin\Debug\Lab2_Task1.4.exe
+G:\Huy\Lab2_Task1.4\Lab2_Task1.4\bin\Debug\Lab2_Task1.4.pdb
+G:\Huy\Lab2_Task1.4\Lab2_Task1.4\obj\Debug\Lab2_Task1._4.ProjectInstaller.resources
+G:\Huy\Lab2_Task1.4\Lab2_Task1.4\obj\Debug\Lab2_Task1.4.csproj.GenerateResource.cache
+G:\Huy\Lab2_Task1.4\Lab2_Task1.4\obj\Debug\Lab2_Task1.4.csproj.CoreCompileInputs.cache
+G:\Huy\Lab2_Task1.4\Lab2_Task1.4\obj\Debug\Lab2_Task1.4.exe
+G:\Huy\Lab2_Task1.4\Lab2_Task1.4\obj\Debug\Lab2_Task1.4.pdb
